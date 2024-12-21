@@ -1,0 +1,1 @@
+Database_Url = "mysql+pymysql://root:1111@127.0.0.1/laba"
